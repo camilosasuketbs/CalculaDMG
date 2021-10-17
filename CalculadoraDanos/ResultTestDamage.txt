@@ -1,0 +1,66 @@
+[NOME_DO_MONSTRO]	[MOBLEVEL]	[PERSONAGEM]	[LEV]	[CLASSE]	[DANO_MIN]	[DANO_BASE]	[DANO_CRITICO]
+Leocorne Zumbi+      	95		PLOMO            161	AA		1829		2053		4085
+Leocorne Zumbi+      	95		Modavoska        133	GU		441		495		668
+Leocorne Zumbi+      	95		LethalMage       180	MA		2615		2932		9544
+Leocorne Zumbi+      	95		UdyrZ            200	DU		2154		2418		6069
+Leocorne Zumbi+      	95		lPesadeloXD      200	AA		3550		3985		11397
+Leocorne Zumbi+      	95		LethalMage       180	MA		1930		2163		2695
+Leocorne Zumbi+      	95		LethalMage       180	MA		1349		1511		4099
+Leocorne Zumbi+      	95		LethalMage       180	MA		725		810		1004
+Leocorne Zumbi+      	95		LethalMage       180	MA		1459		1634		5046
+Leocorne Zumbi+      	95		LethalMage       180	MA		2557		2866		8902
+Leocorne Zumbi+      	95		UdyrZ            200	DU		1177		1321		2351
+Leocorne Zumbi+      	95		CALANGUINHO      200	DU		1757		1973		4656
+----------------------------------------------------------------------------------------------------------------------
+Berderk Faello       	161		PLOMO            161	AA		387		435		865
+Berderk Faello       	161		Modavoska        133	GU		13		13		19
+Berderk Faello       	161		LethalMage       180	MA		1174		1314		4236
+Berderk Faello       	161		UdyrZ            200	DU		712		800		2008
+Berderk Faello       	161		lPesadeloXD      200	AA		2108		2367		6769
+Berderk Faello       	161		LethalMage       180	MA		489		545		673
+Berderk Faello       	161		LethalMage       180	MA		34		51		87
+Berderk Faello       	161		LethalMage       180	MA		34		51		57
+Berderk Faello       	161		LethalMage       180	MA		34		51		94
+Berderk Faello       	161		LethalMage       180	MA		1115		1248		3838
+Berderk Faello       	161		UdyrZ            200	DU		4		39		71
+Berderk Faello       	161		CALANGUINHO      200	DU		316		355		837
+----------------------------------------------------------------------------------------------------------------------
+UMD-03 Lautus Pluma  	180		PLOMO            161	AA		290		326		648
+UMD-03 Lautus Pluma  	180		Modavoska        133	GU		13		13		19
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		1077		1205		3879
+UMD-03 Lautus Pluma  	180		UdyrZ            200	DU		615		691		1734
+UMD-03 Lautus Pluma  	180		lPesadeloXD      200	AA		2011		2258		6457
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		391		436		537
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		50		33		34
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		50		33		33
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		50		33		35
+UMD-03 Lautus Pluma  	180		LethalMage       180	MA		1018		1139		3496
+UMD-03 Lautus Pluma  	180		UdyrZ            200	DU		2		20		37
+UMD-03 Lautus Pluma  	180		CALANGUINHO      200	DU		219		246		580
+----------------------------------------------------------------------------------------------------------------------
+Golem Arcano da Ira  	226		PLOMO            161	AA		16		16		24
+Golem Arcano da Ira  	226		Modavoska        133	GU		13		13		19
+Golem Arcano da Ira  	226		LethalMage       180	MA		465		519		1629
+Golem Arcano da Ira  	226		UdyrZ            200	DU		20		20		30
+Golem Arcano da Ira  	226		lPesadeloXD      200	AA		1400		1572		4495
+Golem Arcano da Ira  	226		LethalMage       180	MA		50		33		33
+Golem Arcano da Ira  	226		LethalMage       180	MA		50		33		34
+Golem Arcano da Ira  	226		LethalMage       180	MA		50		33		33
+Golem Arcano da Ira  	226		LethalMage       180	MA		50		33		35
+Golem Arcano da Ira  	226		LethalMage       180	MA		407		453		1349
+Golem Arcano da Ira  	226		UdyrZ            200	DU		20		20		30
+Golem Arcano da Ira  	226		CALANGUINHO      200	DU		20		20		30
+----------------------------------------------------------------------------------------------------------------------
+UMD-02 Cornus        	163		PLOMO            161	AA		1350		1516		3016
+UMD-02 Cornus        	163		Modavoska        133	GU		13		13		19
+UMD-02 Cornus        	163		LethalMage       180	MA		2137		2395		7782
+UMD-02 Cornus        	163		UdyrZ            200	DU		1675		1881		4721
+UMD-02 Cornus        	163		lPesadeloXD      200	AA		3072		3448		9861
+UMD-02 Cornus        	163		LethalMage       180	MA		1452		1626		2024
+UMD-02 Cornus        	163		LethalMage       180	MA		871		974		2622
+UMD-02 Cornus        	163		LethalMage       180	MA		246		273		333
+UMD-02 Cornus        	163		LethalMage       180	MA		980		1097		3365
+UMD-02 Cornus        	163		LethalMage       180	MA		2078		2329		7221
+UMD-02 Cornus        	163		UdyrZ            200	DU		698		784		1395
+UMD-02 Cornus        	163		CALANGUINHO      200	DU		1279		1436		3388
+----------------------------------------------------------------------------------------------------------------------

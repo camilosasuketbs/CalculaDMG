@@ -1,0 +1,6 @@
+[MOB_IDX]	[MOB_LEV]	[MOB_DEF]	[MOB_NAME]
+569	95	264	Leocorne Zumbi+
+704	161	1816	Berderk Faello
+918	180	1906	UMD-03 Lautus Pluma
+1929	226	2546	Golem Arcano da Ira
+917	163	733	UMD-02 Cornus

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculadoraDanos", "CalculadoraDanos\CalculadoraDanos.vcxproj", "{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Debug|x64.ActiveCfg = Debug|x64
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Debug|x64.Build.0 = Debug|x64
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Debug|x86.ActiveCfg = Debug|Win32
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Debug|x86.Build.0 = Debug|Win32
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Release|x64.ActiveCfg = Release|x64
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Release|x64.Build.0 = Release|x64
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Release|x86.ActiveCfg = Release|Win32
+		{977CD7D0-C8E1-4035-98F9-8F6C74FE7483}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBB36F5-90AA-442B-974D-E96A06D62E8A}
+	EndGlobalSection
+EndGlobal
