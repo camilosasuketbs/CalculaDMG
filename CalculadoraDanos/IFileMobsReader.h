@@ -14,6 +14,8 @@ ifstream mobfin;
 class IMobsReader
 {
 public:
+	
+	Monster* m_pmonster;
 
 	IMobsReader();
 
