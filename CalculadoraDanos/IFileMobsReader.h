@@ -20,4 +20,8 @@ public:
 	IMobsReader();
 
 	~IMobsReader();
+	
+	
+	Monster * get_monster(int iMonster) {return &m_pmonster[iMonster];}
+	
 };
