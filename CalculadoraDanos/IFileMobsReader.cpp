@@ -2,7 +2,7 @@
 
 IMobsReader::IMobsReader()
 {
-	Monster* mob = new Monster[MAX_NUM];
+	m_pmonster = new Monster[MAX_NUM];
 
 	mobfin.open("MobsList.txt");
 	if (!mobfin.is_open())
@@ -19,9 +19,9 @@ IMobsReader::IMobsReader()
 		int i = 0;
 		while (mobfin.good())
 		{
-			mobfin >> mob[i].MobId >> mob[i].Level >> mob[i].Defense;
-			mobfin.ignore(1, ' '); //Ignora o Tab ou EspaÁo a Seguir
-			mobfin.getline(mob[i].MobName, sizeof(mob[i].MobName)); //pega o nome com espaÁos no final da linha
+			mobfin >> m_pmonster[i].MobId >> m_pmonster[i].Level >> mob[i].Defense;
+			mobfin.ignore(1, ' '); //Ignora o Tab ou Espa√ßo a Seguir
+			mobfin.getline(m_pmonster[i].MobName, sizeof(m_pmonster[i].MobName)); //pega o nome com espa√ßos no final da linha
 			i++;
 		}
 	}
@@ -30,5 +30,5 @@ IMobsReader::IMobsReader()
 
 IMobsReader::~IMobsReader()
 {
-		delete[]mob;
+		delete[]m_pmonster;
 };
